@@ -6,7 +6,7 @@ import string
 #
 # SSH Config:
 #
-with ConnectHandler(ip = '10.132.0.100',
+with ConnectHandler(ip = '10.0.0.100',
         port = 22,
         username = 'user',
         password = 'Password',
